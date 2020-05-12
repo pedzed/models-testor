@@ -12,7 +12,7 @@ This package allows you to test your models about table structures, relations an
 You can install the package via composer:
 
 ```bash
-composer require thomasdominic/models-testor
+composer require --dev thomasdominic/models-testor
 ```
 
 ## Usage
