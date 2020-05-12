@@ -21,7 +21,7 @@ To use this package, you have to generate factories for your models. (See [Facto
 You can generate one test file by model or by several. For your model `MyModel` you can use this command for example: 
 
 ```bash
-php artisan make:test Models/MyModelTest
+php artisan make:test --unit Models/MyModelTest
 ```
 
 ### Test of structure and of fillable
